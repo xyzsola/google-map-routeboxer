@@ -7,7 +7,7 @@ setelah itu silahkan restore file mapdb.sql ke database tadi.
 Setelah berhasil, di situ ada 3 tabel. Fokus saja ke tabel info_lokasi
 di tabel itulah data-data lokasi yang digunakan, tapi fokus ke kolom latitude dan longitude saja karena memang kedua itulah yg paling penting
 
-setelah itu coba akses localhost/local/route.php di browser ente
+setelah itu coba akses localhost/[nama folder]/route.php di browser ente
 
 jika berhasil akan tampil map-nya. (INGAT! wajib tersambung ke jaringan internet)
 
